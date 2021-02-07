@@ -4,7 +4,7 @@
   "description": "",
   "main": "express_router.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node express_router.js"
   },
   "author": "",
   "license": "ISC",
